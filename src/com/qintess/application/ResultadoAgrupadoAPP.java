@@ -11,9 +11,7 @@ import java.util.Calendar;
 import java.util.Collections;
 import java.util.Date;
 import java.util.List;
-import java.util.function.BooleanSupplier;
 
-import javax.xml.bind.annotation.adapters.CollapsedStringAdapter;
 
 import com.qintess.modelo.DadosMercado;
 import com.qintess.modelo.Operacoes;
